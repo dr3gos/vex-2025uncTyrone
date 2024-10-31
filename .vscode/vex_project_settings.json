@@ -1,0 +1,18 @@
+{
+	"extension": {
+		"version": "0.6.0",
+		"json": 2
+	},
+	"project": {
+		"name": "vex24-25",
+		"description": "",
+		"creationDate": "10/31/2024, 3:50:21 PM",
+		"platform": "V5",
+		"language": "python",
+		"slot": 2,
+		"sdkVersion": "V5_1_0_1_19",
+		"python": {
+			"main": "src/main.py"
+		}
+	}
+}
