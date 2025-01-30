@@ -41,7 +41,7 @@ current_mode = Mode.DISABLED
 
 def drive_control():
     # Arcade drive implementation
-    forward = controller.axis3.position()
+    forward = -controller.axis3.position()
     turn = controller.axis1.position()
     
     left = turn + forward
